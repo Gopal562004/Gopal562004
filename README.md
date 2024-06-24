@@ -8,15 +8,15 @@ I have a keen interest in exploring the latest developments in the tech world, f
 
 ## 🌱 Learning Journey
 
-Currently, I'm on an exciting learning journey focused on web development. I'm diving deep into frontend technologies and continuously expanding my skill set to keep up with the dynamic nature of the industry.
+Currently, I'm on an exciting learning journey focused on web development, particularly the MERN stack (MongoDB, Express.js, React, and Node.js). Additionally, I am deeply interested in Data Structures and Algorithms (DSA), constantly honing my problem-solving skills.
 
 ## 💞️ Collaboration
 
-I'm eager to collaborate on projects that involve frontend development or anything related to JavaScript. If you have an interesting project or need an extra pair of hands, let's team up and create something amazing!
+I'm eager to collaborate on projects that involve frontend development, JavaScript, the MERN stack, or DSA. If you have an interesting project or need an extra pair of hands, let's team up and create something amazing!
 
 ## 📫 How to Reach Me
 
-Feel free to send me a message here on GitHub. I'm always open to discussions, collaboration opportunities, and connecting with fellow developers.
+Feel free to send me a message here on GitHub or email me at gopalgawas2004@gmail.com. I'm always open to discussions, collaboration opportunities, and connecting with fellow developers.
 
 ## 😄 Pronouns
 
@@ -24,6 +24,6 @@ He/Him
 
 ## ⚡ Fun Fact
 
-In my free time, I enjoy not only solving coding challenges but also expressing my creativity through playing various musical instruments. Coding and music – my two passions coming together!
+In my free time, I enjoy solving coding challenges and staying updated with the latest tech trends. Coding and continuous learning – my two passions driving me forward!
 
 Let's connect, collaborate, and build something extraordinary together! 🚀
