@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about technology, programming, and contributing to open-source projects. 🌟
 
-![Welcome Animation](https://media.giphy.com/media/l0MYA0a3gL1n8X6Qo/giphy.gif) <!-- Example GIF -->
+![Welcome Animation](https://media.giphy.com/media/l0MYA0a3gL1n8X6Qo/giphy.gif) <!-- Replace with your own GIF link -->
 
 ## 👀 Interests
 I have a keen interest in exploring the latest developments in the tech world, from innovative programming languages to cutting-edge software applications. 💻✨
@@ -10,7 +10,7 @@ I have a keen interest in exploring the latest developments in the tech world, f
 ## 🌱 Learning Journey
 Currently, I'm on an exciting learning journey focused on **web development**, particularly the **MERN stack** (MongoDB, Express.js, React, and Node.js). Additionally, I'm deeply interested in **Data Structures and Algorithms (DSA)**, constantly honing my problem-solving skills. 📚🔍
 
-![MERN Stack](https://media.giphy.com/media/xT0xeuOxEXkW5QRf8Y/giphy.gif) <!-- Example GIF -->
+![MERN Stack](https://media.giphy.com/media/xT0xeuOxEXkW5QRf8Y/giphy.gif) <!-- Replace with your own GIF link -->
 
 ## 💞️ Collaboration
 I'm eager to collaborate on projects that involve **frontend development**, **JavaScript**, the **MERN stack**, or **DSA**. If you have an interesting project or need an extra pair of hands, let’s team up and create something amazing! 🤝🌍
